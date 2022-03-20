@@ -26,5 +26,8 @@
   "dependencies": {
     "react": "^17.0.2"
   },
-  "gitHead": "f7f49cd96f3d1e206446c1e71ebd040751f41150"
+  "gitHead": "e64b485e1a27f30c648743ae93fe771d15e95d72",
+  "publishConfig": {
+    "access": "public"
+  }
 }

@@ -1,0 +1,26 @@
+{
+  "name": "@dongdong-dev/core",
+  "version": "0.0.0",
+  "description": "@dongdong-dev core",
+  "author": "wangdongdong9264 <wangdongdong9264@hotmail.com>",
+  "homepage": "https://github.com/wangdongdong9264/monorepo_lerna/tree/main/packages/core#readme",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangdongdong9264/monorepo_lerna.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/wangdongdong9264/monorepo_lerna/issues"
+  }
+}

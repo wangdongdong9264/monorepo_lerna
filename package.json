@@ -1,0 +1,22 @@
+{
+  "name": "monorepo_lerna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangdongdong9264/monorepo_lerna.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangdongdong9264/monorepo_lerna/issues"
+  },
+  "homepage": "https://github.com/wangdongdong9264/monorepo_lerna#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}

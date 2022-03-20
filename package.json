@@ -18,5 +18,8 @@
   "homepage": "https://github.com/wangdongdong9264/monorepo_lerna#readme",
   "devDependencies": {
     "lerna": "^4.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

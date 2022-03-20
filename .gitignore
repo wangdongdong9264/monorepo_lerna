@@ -111,4 +111,3 @@ yarn.lock
 
 # lerna
 packages/**/node_modules
-packages/**/package-lock.json

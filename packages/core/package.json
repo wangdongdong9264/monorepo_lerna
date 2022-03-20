@@ -18,9 +18,13 @@
     "url": "git+https://github.com/wangdongdong9264/monorepo_lerna.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"core test ok\""
   },
   "bugs": {
     "url": "https://github.com/wangdongdong9264/monorepo_lerna/issues"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "redux": "^4.1.2"
   }
 }
